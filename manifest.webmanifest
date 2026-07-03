@@ -1,0 +1,26 @@
+{
+  "name": "Berlin Aura Towers",
+  "short_name": "Berlin",
+  "description": "Berlin Aura Towers: Sophistication, served sunrise to nightfall",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f3ee",
+  "theme_color": "#caa472",
+  "lang": "de",
+  "dir": "ltr",
+  "orientation": "portrait-primary",
+  "categories": [
+    "travel",
+    "lifestyle",
+    "business"
+  ],
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
